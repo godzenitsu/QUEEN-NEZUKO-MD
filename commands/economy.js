@@ -3,10 +3,10 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : XLICON-MD
- * @author : salmanytofficial <https://github.com/jayjay-ops>
- * @modified by : @salmanytofficial <https://github.com/salmanytofficial/XLICON-MD>
- * @description : XLICON,A Multi-functional whatsapp bot.
+ * @project_name : NEZUKO
+ * @author : godzenitsu<🔮>
+ * @modified by : @zenitsu <😌>
+ * @description : nezuko,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -379,7 +379,7 @@ default:
         let mongoschemas = zerogroup.economy || "false";
         if (mongoschemas == "false") return citel.reply("*🚦Economy* is not active in current group.");
         const user = citel.sender
-	//	if(citel.chat!=="120363043857093839@g.us") return citel.reply('This is not a economy group.')
+	//	if(citel.chat!=="120363260270840831@g.us") return citel.reply('This is not a economy group.')
         var texts = text.split(" ");
      var opp = texts[1];// your value
      var value = texts[0].toLowerCase();

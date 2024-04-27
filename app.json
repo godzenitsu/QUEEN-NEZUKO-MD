@@ -112,7 +112,7 @@
      "value": "true",
      "required": false 
   }
-},
+}
 "formation": {
 		"worker": {
 			"quantity": 1,

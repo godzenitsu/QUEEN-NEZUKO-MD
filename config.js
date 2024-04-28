@@ -6,12 +6,12 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 global.owner = process.env.OWNER_NUMBER || '917907387121'  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=majority"
 global.port= process.env.PORT || 5000
-global.email = 'maxdavid126@gmail.com'
+global.email = 'hehheeahnndndn@gmail.com'
 global.github = 'https://github.com/godzenitsu/QUEEN-NEZUKO-MD'
 global.location = 'Kerala,palakkad'
 global.gurl = 'https://instagram.com/whoois.zenitsu/' // add your username
 global.sudo = process.env.SUDO || "919744108970,917907387121,919605612983"
-global.devs = '2348069553870'
+global.devs = '919744108970'
 global.website = 'https://github.com/godzenitsu/QUEEN-NEZUKO-MD' //wa.me/+917907387121
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://graph.org/file/171c1ceb7bd07b6160e12.jpg'
 module.exports = {

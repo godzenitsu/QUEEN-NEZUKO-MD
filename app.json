@@ -1,7 +1,7 @@
 {
   "name": "NEZUKO-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://graph.org/file/171c1ceb7bd07b6160e12.jpg",
+  "logo": "https://i.imgur.com/F7EUx9f.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "oni chaan", "nezuko Bot", "zenitsu","NEZUKO-MD","theme bot","multi device","baileys","godzen"],
   "success_url": "/",
   "stack": "container",
@@ -73,7 +73,7 @@
       "value": "put owner number"
     },	  
     "SESSION_ID": {
-      "description": ";;; WORD PUT YOUR SESSION ID HERE.",
+      "description": "QUEEN-NEZUKO;;; DON'T CUT THIS WORD!!.",
       "required": true,
       "value": "QUEEN-NEZUKO;;;"
     },

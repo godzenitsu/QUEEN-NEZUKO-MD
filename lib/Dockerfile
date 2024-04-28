@@ -1,8 +1,7 @@
-FROM quay.io/maherzubair/sigma-md:beta
-RUN git clone https://github.com/godzenitsu/QUEEN-NEZUKO-MD /root/QUEEN-NEZUKO-MD
-WORKDIR /root/QUEEN-NEZUKO-MD/
+FROM quay.io/godzenitsu/QUEEN-NEZUKO-MD
+RUN git clone https://github.com/godzenitsu/QUEEN-NEZUKO-MD /root/godzenitsu
+WORKDIR /root/godzenitsu/
 RUN npm install npm@latest
 RUN npm install
 EXPOSE 8000
 CMD ["npm", "start"]
- 

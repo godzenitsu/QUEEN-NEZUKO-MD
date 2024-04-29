@@ -65,7 +65,7 @@ Copy the JSON down and paste in repl then fill the vars
 
 ### DEPLOY ON VPS
 <a
-href='https://github.com/godzenitsu/DEPLOY-ON-VPS' target="_blank"><img alt='jarvis-md' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+href='https://github.com/godzenitsu/DEPLOY-ON-VPS' target="_blank"><img alt='jarvis-md' src='https://img.shields.io/badge/DEPLOY_VPS-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
    </details>
  

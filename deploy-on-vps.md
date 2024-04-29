@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/Bladeh4x/BLADE-MD
-      cd BLADE-MD
+      git clone https://github.com/godzenitsu/QUEEN-NEZUKO-MD
+      cd QUEEN-NEZUKO-MD
       yarn install --network-concurrency 1
       ```
 
@@ -41,11 +41,11 @@
       OWNER_NUMBER="92xxxxxxxxxx"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "Put Session Id Here"
-      THUMB_IMAGE = "https://telegra.ph/file/8f6f537cc4103b48f3783.jpg"
+      THUMB_IMAGE = "https://graph.org/file/3879cf1910f65bd8457d7.jpg"
       port = 5000
       email = "xxxxxxxxxxxxx@gmail.com"
-      global_url = "www.tiktok/Blade_ffhx"
-      OWNER_NAME = "SALMAN"
+      global_url = "www.instagram.com/whoois.zenitsu"
+      OWNER_NAME = "ZENITSU"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 354
       READ_MESSAGE = false
@@ -55,9 +55,9 @@
       ANTI_BAD_WORD = "fuck"
       LEVEL_UP_MESSAGE= true
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
-      THEME= GOJO
+      THEME= NEZUKO
       WORKTYPE = public
-      PACK_INFO = "blade md"
+      PACK_INFO = "GODZENITSU"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```

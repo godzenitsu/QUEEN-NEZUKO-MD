@@ -63,6 +63,9 @@ Copy the JSON down and paste in repl then fill the vars
     <br>
 <a href='https://app.koyeb.com/apps/deploy?type=git&repository=github.com/godzenitsu/QUEEN-NEZUKO-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=917907387121&env[MONGODB_URI]&&env[OWNER_NAME]=ZENITSU&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://graph.org/file/3879cf1910f65bd8457d7.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=NEZUKO&env[PACK_INFO]=NEZUKO-MD;BY-GODZENITSU&name=QUEEN-NEZUKO-MD&env[KOYEB_NAME]=QUEEN-NEZUKO-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
+### DEPLOY ON VPS
+<a
+href='https://github.com/godzenitsu/DEPLOY-ON-VPS' target="_blank"><img alt='jarvis-md' src='https://img.shields.io/badge/EXPLUGIN-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
    </details>
  

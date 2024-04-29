@@ -70,7 +70,7 @@ Copy the JSON down and paste in repl then fill the vars
 
 #### THANKS TO
 - [Loki](https://github.com/Loki-Xer) <br>
-- [SamPandy](https://github.com/SamPandey001) for 𝗦𝗘𝗖𝗞𝗧𝗢𝗥 𝗕𝗔𝗦𝗘
+- [SamPandey](https://github.com/SamPandey001) for 𝗦𝗘𝗖𝗞𝗧𝗢𝗥 𝗕𝗔𝗦𝗘
 
 #### NEZUKO SUPPORT 
 
@@ -85,3 +85,4 @@ Copy the JSON down and paste in repl then fill the vars
     <br>
 <br>
 <a 
+href='https://github.com/godzenitsu/NEZUKO-MD-PLUGIN' target="_blank"><img alt='jarvis-md' src='https://img.shields.io/badge/EXPLUGIN-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>

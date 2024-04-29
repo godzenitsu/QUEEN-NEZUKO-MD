@@ -1,5 +1,5 @@
 #### QUEEN NEZUKO MD WHATSAPP BOT
-nezuko md is Multi Device whatsapp bot based on SECKTOR***
+𝗔 𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗔 𝗕𝗢𝗧 𝗪𝗜𝗧𝗛 𝗥𝗜𝗖𝗛 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
 
 ### SETUP NEZUKO
 

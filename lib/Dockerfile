@@ -1,7 +1,15 @@
-FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/SamPandey001/Secktor-Md /root/SamPandey001
-WORKDIR /root/SamPandey001/
-RUN npm install npm@latest
+# using suhail's docker coz mine have issues
+
+
+
+FROM quay.io/suhailtechinfo/suhail-v2
+
+RUN git clone https://github.com/godzenitsu/QUEEN-NEZUKO-MD /root/Maher-Zubair/SIGMA-MD
+
+WORKDIR /root/godzenitsu/QUEEN-NEZUKO-MD
+
 RUN npm install
+
 EXPOSE 8000
+
 CMD ["npm", "start"]

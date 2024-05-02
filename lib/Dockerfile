@@ -4,7 +4,7 @@
 
 FROM quay.io/suhailtechinfo/suhail-v2
 
-RUN git clone https://github.com/godzenitsu/QUEEN-NEZUKO-MD /root/Maher-Zubair/SIGMA-MD
+RUN git clone https://github.com/godzenitsu/QUEEN-NEZUKO-MD /root/godzenitsu/QUEEN-NEZUKO-MD
 
 WORKDIR /root/godzenitsu/QUEEN-NEZUKO-MD
 

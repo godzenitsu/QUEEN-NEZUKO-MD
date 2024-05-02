@@ -43,7 +43,7 @@ Copy the JSON down and paste in repl then fill the vars
   "OWNER_NUMBER": "91xxxxxxxxxx",
   "OWNER_NAME": "GOD-ZENITSU",
   "OPENAI_API_KEY": "null",
-  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
+  "MONGODB_URI": "mongodb+srv://Nezuko:godzenitsu@nezuko.5t824ws.mongodb.net/",
   "PACK_INFO": "GOD;ZENITSU",
   "PREFIX": "."
    
